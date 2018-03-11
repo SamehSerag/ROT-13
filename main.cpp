@@ -5,14 +5,11 @@ using namespace std;
 
 int main()
 {
-    // FCI – Programming 1 – 2018 - Assignment 2
+    // FCI â€“ Programming 1 â€“ 2018 - Assignment 2
 // Program Name: Rot13
 // Last Modification Date: 1/3/2017
-// Author1 and ID and Group: sameh serag eldine 20710113 G9
-// Author2 and ID and Group: mohamed ashour eid 20170239 G9
-// Author3 and ID and Group: mahmoud ramadan farag 20170267 G10
-// Teaching Assistant:
-// Purpose: solve problem 3
+// Author: sameh serag eldine  
+
 
 
 string msg;
